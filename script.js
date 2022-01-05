@@ -1,4 +1,4 @@
-'use strict';
+
 
 let input = document.querySelector('#calc--input');
 let calcSum = '';
