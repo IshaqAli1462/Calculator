@@ -16,7 +16,7 @@ document.querySelector('#equal').addEventListener('click', function () {
       calcSum = '';
     } else {
       input.textContent = num;
-      calcSum = '';
+      calcSum = num;
     }
   } catch (err) {
     input.textContent = 'Error';
